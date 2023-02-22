@@ -11,19 +11,19 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/kinire98/Playground/Project list#numbers)
-- [Classic Algorithms](https://github.com/kinire98/Playground/Project list#classic-algorithms)
-- [Graph](https://github.com/kinire98/Playground/Project list#graph)
-- [Data Structures](https://github.com/kinire98/Playground/Project list#data-structures)
-- [Text](https://github.com/kinire98/Playground/Project list#text)
-- [Networking](https://github.com/kinire98/Playground/Project list#networking)
-- [Classes](https://github.com/kinire98/Playground/Project list#classes)
-- [Threading](https://github.com/kinire98/Playground/Project list#threading)
-- [Web](https://github.com/kinire98/Playground/Project list#web)
-- [Files](https://github.com/kinire98/Playground/Project list#files)
-- [Databases](https://github.com/kinire98/Playground/Project list#databases)
-- [Graphics and Multimedia](https://github.com/kinire98/Playground/Project list#graphics-and-multimedia)
-- [Security](https://github.com/kinire98/Playground/Project list#security)
+- [Numbers](https://github.com/kinire98/Playground/Project_list#numbers)
+- [Classic Algorithms](https://github.com/kinire98/Playground/Project_list#classic-algorithms)
+- [Graph](https://github.com/kinire98/Playground/Project_list#graph)
+- [Data Structures](https://github.com/kinire98/Playground/Project_list#data-structures)
+- [Text](https://github.com/kinire98/Playground/Project_list#text)
+- [Networking](https://github.com/kinire98/Playground/Project_list#networking)
+- [Classes](https://github.com/kinire98/Playground/Project_list#classes)
+- [Threading](https://github.com/kinire98/Playground/Project_list#threading)
+- [Web](https://github.com/kinire98/Playground/Project_list#web)
+- [Files](https://github.com/kinire98/Playground/Project_list#files)
+- [Databases](https://github.com/kinire98/Playground/Project_list#databases)
+- [Graphics and Multimedia](https://github.com/kinire98/Playground/Project_list#graphics-and-multimedia)
+- [Security](https://github.com/kinire98/Playground/Project_list#security)
 
 Numbers
 ---------
