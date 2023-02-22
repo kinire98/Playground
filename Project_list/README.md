@@ -11,19 +11,19 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/kinire98/Playground/Project_list#numbers)
-- [Classic Algorithms](https://github.com/kinire98/Playground/Project_list#classic-algorithms)
-- [Graph](https://github.com/kinire98/Playground/Project_list#graph)
-- [Data Structures](https://github.com/kinire98/Playground/Project_list#data-structures)
-- [Text](https://github.com/kinire98/Playground/Project_list#text)
-- [Networking](https://github.com/kinire98/Playground/Project_list#networking)
-- [Classes](https://github.com/kinire98/Playground/Project_list#classes)
-- [Threading](https://github.com/kinire98/Playground/Project_list#threading)
-- [Web](https://github.com/kinire98/Playground/Project_list#web)
-- [Files](https://github.com/kinire98/Playground/Project_list#files)
-- [Databases](https://github.com/kinire98/Playground/Project_list#databases)
-- [Graphics and Multimedia](https://github.com/kinire98/Playground/Project_list#graphics-and-multimedia)
-- [Security](https://github.com/kinire98/Playground/Project_list#security)
+- [Numbers](https://github.com/kinire98/Playground/tree/main/Project_list#numbers)
+- [Classic Algorithms](https://github.com/kinire98/Playground/tree/main/Project_list#classic-algorithms)
+- [Graph](https://github.com/kinire98/Playground/tree/main/Project_list#graph)
+- [Data Structures](https://github.com/kinire98/Playground/tree/main/Project_list#data-structures)
+- [Text](https://github.com/kinire98/Playground/tree/main/Project_list#text)
+- [Networking](https://github.com/kinire98/Playground/tree/main/Project_list#networking)
+- [Classes](https://github.com/kinire98/Playground/tree/main/Project_list#classes)
+- [Threading](https://github.com/kinire98/Playground/tree/main/Project_list#threading)
+- [Web](https://github.com/kinire98/Playground/tree/main/Project_list#web)
+- [Files](https://github.com/kinire98/Playground/tree/main/Project_list#files)
+- [Databases](https://github.com/kinire98/Playground/tree/main/Project_list#databases)
+- [Graphics and Multimedia](https://github.com/kinire98/Playground/tree/main/Project_list#graphics-and-multimedia)
+- [Security](https://github.com/kinire98/Playground/tree/main/Project_list#security)
 
 Numbers
 ---------
