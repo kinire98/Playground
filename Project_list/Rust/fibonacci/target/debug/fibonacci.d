@@ -1,0 +1,1 @@
+C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\fibonacci\target\debug\fibonacci.exe: C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\fibonacci\src\fibonacci.rs C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\fibonacci\src\main.rs
