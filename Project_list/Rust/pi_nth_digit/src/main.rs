@@ -9,11 +9,11 @@ fn main() {
         .read_line(&mut _input)
         .expect("Failed to read line");
     println!("Pi to the {}th digit is:", _input); 
-    let _input: u32 = match _input.trim().parse() {
+    let _input: f32 = match _input.trim().parse() {
             Ok (num) => num,
             Err (_) => {
                 println!("Input a valid number!");
-                0
+                0.0
             }
     };
     println!("{}", pi_nth_digit::pi_nth_digit(_input));

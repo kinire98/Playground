@@ -1,5 +1,5 @@
-pub fn pi_nth_digit(digit: u32) -> f64 {
-    if digit > 12 {return 0.0}
+pub fn pi_nth_digit(digit: f32) -> f64 {
+    if f64::from(digit) > f64::from(15) {return 0.0}
     // let first_pow = if is_even(digit) {1} else {-1};
     // let first_factorial: u32 = (1..=digit).product();
     // let first_sum = f64::from(545140134) * f64::from(digit) + f64::from(13591409);
@@ -11,8 +11,11 @@ pub fn pi_nth_digit(digit: u32) -> f64 {
     // let first_pow: u32 = num_for_pow.pow(3 * digit + (3/2));
     // let denominator = third_factorial_powered * first_pow * second_factorial; 
     // let pi: f64 = f64::from(12) * (f64::from(numerator) / f64::from(denominator));
-    let pi: f64 = (f64::from(4)/f64::from(1)) - (f64::from(4)/f64::from(3)) + (f64::from(4)/f64::from(5)) - (f64::from(4)/f64::from(7)) + (f64::from(4)/f64::from(9)) - (f64::from(4)/f64::from(11)) + (f64::from(4)/f64::from(13)) - (f64::from(4)/f64::from(15)) + (f64::from(4)/f64::from(17)) - (f64::from(4)/f64::from(19)) + (f64::from(4)/f64::from(21)) - (f64::from(4)/f64::from(23)) + (f64::from(4)/f64::from(25));
-    pi
+    const PI: f64 = 3.14159265358979323846264338327950288;
+    // let pi: f64 = (f64::from(4)/f64::from(1)) - (f64::from(4)/f64::from(3)) + (f64::from(4)/f64::from(5)) - (f64::from(4)/f64::from(7)) + (f64::from(4)/f64::from(9)) - (f64::from(4)/f64::from(11)) + (f64::from(4)/f64::from(13)) - (f64::from(4)/f64::from(15)) + (f64::from(4)/f64::from(17)) - (f64::from(4)/f64::from(19)) + (f64::from(4)/f64::from(21)) - (f64::from(4)/f64::from(23)) + (f64::from(4)/f64::from(25));
+    const TEN: f64 = 10.0;
+    let division: f64 = TEN.powf(f64::from(digit) - f64::from(15));
+    PI * division
 }
 // fn factorial(num: u32)  -> u32 {
 //     let count = 1;
