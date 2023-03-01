@@ -1,0 +1,1 @@
+C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\cash_register\target\debug\cash_register.exe: C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\cash_register\src\change.rs C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\cash_register\src\main.rs
