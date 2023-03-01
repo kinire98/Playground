@@ -1,0 +1,1 @@
+C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\FizzBuzz\target\debug\FizzBuzz.exe: C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\FizzBuzz\src\fizzbuzz.rs C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\FizzBuzz\src\main.rs
