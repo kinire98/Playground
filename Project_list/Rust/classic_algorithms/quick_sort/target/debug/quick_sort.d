@@ -1,0 +1,1 @@
+C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\classic_algorithms\quick_sort\target\debug\quick_sort.exe: C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\classic_algorithms\quick_sort\src\main.rs C:\Users\Iknit\Documents\Proyectos\Playground\Project_list\Rust\classic_algorithms\quick_sort\src\quick_sort.rs
